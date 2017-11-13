@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Old City Tour</string>
+
+    <string name="old_tab">Old City</string>
+    <string name="old_head">Visit Historic Old City Philadelphia!</string>
+    <string name="old_info">Plan a trip today! Swipe to see a few suggestions we have.</string>
+
+    <string name="elfreth_tab">Elfreth Alley</string>
+    <string name="elfreth_head">Vist Elfreth Alley!</string>
+    <string name="elfreth_info">Elfreth’s Alley was not included in original plans for Philadelphia. As Philadelphia became a bustling city, artisans and merchants purchased or rented property close to the ports where goods and materials arrived. This led to overcrowding, and landowners recognized that tradesmen needed alternate routes to the river. Landowners Arthur Wells and John Gilbert combined their properties between Front and Second Streets to open Elfreth’s Alley, named after silversmith Jeremiah Elfreth, as a cart path in 1706.</string>
+
+    <string name="liberty_tab">Liberty Bell</string>
+    <string name="liberty_head">Selfie with the Liberty Bell!</string>
+    <string name="liberty_info">Go beyond the iconic crack to learn how this State House bell was transformed into an extraordinary symbol. Abolitionists, women\'s suffrage advocates and Civil Rights leaders took inspiration from the inscription on this bell. Make a visit to the Liberty Bell Center to view exhibits, see a film, and gaze upon the famous cracked bell. No tickets are required and hours vary seasonally.</string>
+
+    <string name="president_tab">Presidents House</string>
+    <string name="president_head">See the House that came before the White House.</string>
+    <string name="president_info">This house served as the "White House" from 1790 to 1800 while Philadelphia was the capital of the United States. Today, you can visit the site on Market Street for the newest addition to Independence Mall — a commemorative exhibition entitled The President\'s House: Freedom and Slavery in the Making of a New Nation on an open-air footprint of the original house, one block north of Independence Hall.</string>
+</resources>
